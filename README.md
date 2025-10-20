@@ -23,6 +23,10 @@ The platform addresses inefficiencies in the repair coordination process by intr
 
 ---
 
+<img width="1044" height="779" alt="image" src="https://github.com/user-attachments/assets/45524945-cc3a-484a-abea-82081ca6d77b" />
+
+
+
 ## 🛠️ Tech Stack
 - **Frontend:** Ionic + React (TypeScript)
 - **Backend Infrastructure:** Firebase (Firestore, Storage, Auth, FCM)
