@@ -10,7 +10,6 @@ Developed using **Ionic + React + Firebase**, this project was created for the *
 The platform addresses inefficiencies in the repair coordination process by introducing:
 - 🔍 **Location-based service matching**
 - 🧾 **Digitalized repair history**
-- 🤖 **AI-powered OCR automation** that converts handwritten repair logs into structured data.
 
 ---
 
@@ -20,6 +19,7 @@ The platform addresses inefficiencies in the repair coordination process by intr
 - 👥 Developed by a **4-member team** (Frontend 2, OCR AI, Research)  
 - 🚀 Recognized for combining **AI digitization and field-service innovation**  
 - 🎯 Selected for strong **social impact and industrial AI application potential**
+- (이건 수정해여할듯)
 
 ---
 
