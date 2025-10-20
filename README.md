@@ -23,7 +23,9 @@ The platform addresses inefficiencies in the repair coordination process by intr
 
 ---
 
-<img width="1044" height="779" alt="image" src="https://github.com/user-attachments/assets/45524945-cc3a-484a-abea-82081ca6d77b" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/45524945-cc3a-484a-abea-82081ca6d77b" />
+<img width="628" height="783" alt="image" src="https://github.com/user-attachments/assets/ab469ca5-3c01-4023-ab49-83deb7199400" />
+
 
 
 
