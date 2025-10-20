@@ -23,13 +23,12 @@ The platform addresses inefficiencies in the repair coordination process by intr
 
 ---
 
-## 🛠️ Tech Stack  
-- **Frontend:** Ionic + React (TypeScript)  
-- **Backend:** Firebase Firestore & Storage  
-- **Cloud Messaging:** Firebase FCM (real-time notifications)  
-- **Geolocation API:** Naver Maps Platform  
-- **Authentication:** Firebase Auth  
-- **AI Integration (Planned):** OCR-based repair log digitization (Naver CLOVA OCR)
+## 🛠️ Tech Stack
+- **Frontend:** Ionic + React (TypeScript)
+- **Backend Infrastructure:** Firebase (Firestore, Storage, Auth, FCM)
+- **Cloud Functions (Optional):** Serverless event handling for data automation
+- **Geolocation API:** Naver Maps Platform
+
 
 ---
 
