@@ -21,6 +21,12 @@ The platform addresses inefficiencies in the repair coordination process by intr
 
 ---
 
+## 🌍 Social Impact
+
+TtukDoctor enhances repair accessibility for small mechanics and equipment operators, particularly in rural or underrepresented areas.
+By digitizing handwritten records and streamlining real-time coordination, the platform promotes equitable access to maintenance resources and helps bridge the gap between traditional labor and digital innovation.
+It reflects a core belief that AI should empower, not replace, human expertise.
+
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/45524945-cc3a-484a-abea-82081ca6d77b" />
 <img width="628" height="783" alt="image" src="https://github.com/user-attachments/assets/ab469ca5-3c01-4023-ab49-83deb7199400" />
 
@@ -50,19 +56,16 @@ The platform addresses inefficiencies in the repair coordination process by intr
 
 ---
 
-## 🧩 Architecture  
-```plaintext
-src/
- ┣ components/
- ┣ pages/
- ┣ firebase/
- ┣ hooks/
- ┣ utils/
- ┗ App.tsx
+## 🧩 Architecture
 
-public/
- ┣ assets/
- ┗ index.html
+TtukDoctor combines UI and logic within each page while managing data through Firebase service functions.  
+The project also includes Naver Maps integration for location-based features.
+
+- **Pages:** Main user interfaces such as Home, Login, My Vehicle, Quotes, and Reservation flows (OnSite1–4, Reserve1–5)  
+- **Services:** A collection of functions that handle Firebase operations (Garages, Users, Auth<Login, Signup>, etc.)  
+- **Map Feature:** Uses the Naver Maps SDK (loaded in `index.html`) and a clustering script (`MarkerClustering.js`) for displaying nearby repair shops  
+- **Theme:** Global color, font, and layout variables for consistent design  
+
 
 ## 📂 Repository Structure
 
@@ -76,19 +79,18 @@ package.json → Dependency management
 
 📺 Demo Video: Watch on YouTube
 
-🌐 Live Preview (if hosted): https://ttukdoctor.web.app
+https://youtu.be/-IgLjWqCCtg?si=GUOLBrQbTJffaa5V (Beta Version)
+https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d (Quote Process)
+
 
 👥 Team & Roles
 Name	Role	Contribution
 Jungmyung Lee	Full-stack Developer	Built Ionic + React frontend, Firebase DB integration, and location logic
-Team Member 2	Backend Developer	Firestore schema, FCM, and authentication logic
-Team Member 3	AI Researcher	OCR model prototype for repair record automation
+Team Member 2	Full-stack Developer	Built Ionic + React frontend, Firebase DB integration, and location logic
+Team Member 3	Coordinated overall workflow, task distribution
 Team Member 4	Designer	UX/UI layout, Figma prototyping, and visual design
-🌍 Social Impact
 
-TtukDoctor enhances repair accessibility for small mechanics and equipment operators, particularly in rural or underrepresented areas.
-By digitizing handwritten records and streamlining real-time coordination, the platform promotes equitable access to maintenance resources and helps bridge the gap between traditional labor and digital innovation.
-It reflects a core belief that AI should empower, not replace, human expertise.
+
 
 📈 Future Development
 
