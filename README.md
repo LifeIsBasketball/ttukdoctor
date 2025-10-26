@@ -6,7 +6,7 @@
 **TtukDoctor** is a mobile web platform that connects heavy-equipment operators (e.g., forklifts, dump trucks, and mixers) with nearby repair shops in real time.  
 Developed using **Ionic + React + Firebase**.
 
-## 🚀 Problem - Solution - Impact
+## 🚀 Problem - Solution - Social Impact
 
 > Built a national-scale platform improving repair accessibility and transparency for Korea’s heavy-equipment industry.
 
