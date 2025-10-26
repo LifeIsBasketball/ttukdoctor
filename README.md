@@ -6,6 +6,14 @@
 **TtukDoctor** is a mobile web platform that connects heavy-equipment operators (e.g., forklifts, dump trucks, and mixers) with nearby repair shops in real time.  
 Developed using **Ionic + React + Firebase**, this project was created for the **2025 Republic of Korea Air Force Startup Competition**, where it won a **Merit Award (Top 8 out of 380+ teams)**.  
 
+## 🌍 Social Impact
+TtukDoctor engaged over **120 mechanics and equipment operators** to collect feedback for feature refinement and secured **MOUs with 6+ organizations**, including the **Korea Construction Equipment Association** and the **Korea Construction Equipment Repair Association**, strengthening cooperation across the industry.  
+By **web-crawling and updating over 1,200 repair shop records**—many of which were previously missing from Google or Naver Maps—the platform built a **comprehensive national database** covering every region in South Korea.  
+This effort **reduced information gaps** in the construction equipment service industry and improved accessibility for equipment operators.  
+The platform also supports **young professionals in their 20s and 30s** entering the market by providing transparent, reliable information and easy digital access.  
+During the MVP stage, user feedback was **highly positive**, with participants expressing strong anticipation for the official launch.  
+TtukDoctor continues to focus on solving real-world inefficiencies while ensuring that technology strengthens, rather than replaces, human expertise.
+
 The platform addresses inefficiencies in the repair coordination process by introducing:
 - 🔍 **Location-based service matching**
 - 🧾 **Digitalized repair history**
@@ -21,11 +29,6 @@ The platform addresses inefficiencies in the repair coordination process by intr
 
 ---
 
-## 🌍 Social Impact
-
-TtukDoctor enhances repair accessibility for small mechanics and equipment operators, particularly in rural or underrepresented areas.
-By digitizing handwritten records and streamlining real-time coordination, the platform promotes equitable access to maintenance resources and helps bridge the gap between traditional labor and digital innovation.
-It reflects a core belief that AI should empower, not replace, human expertise.
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/45524945-cc3a-484a-abea-82081ca6d77b" />
 <img width="628" height="783" alt="image" src="https://github.com/user-attachments/assets/ab469ca5-3c01-4023-ab49-83deb7199400" />
@@ -56,7 +59,7 @@ It reflects a core belief that AI should empower, not replace, human expertise.
 
 ---
 
-## 🧩 Architecture
+## 🧩 Codebase Overview
 
 TtukDoctor combines UI and logic within each page while managing data through Firebase service functions.  
 The project also includes Naver Maps integration for location-based features.
@@ -71,13 +74,10 @@ The project also includes Naver Maps integration for location-based features.
 
 /src → Core logic and React pages
 /public → Static assets (logos, HTML entry point)
-firebase.json → Firebase Hosting configuration
-storage.rules / firestore.rules → Security access control
-package.json → Dependency management
+/firebase.json → Firebase Hosting configuration
+/tsconfig.json → TypeScript compiler configuration
 
-🎥 Demo & Showcase
-
-📺 Demo Video: Watch on YouTube
+📺 App Video: Watch on YouTube
 
 https://youtu.be/-IgLjWqCCtg?si=GUOLBrQbTJffaa5V (Beta Version)
 https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d (Quote Process)
@@ -85,37 +85,14 @@ https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d (Quote Process)
 
 👥 Team & Roles
 Name	Role	Contribution
-Jungmyung Lee	Full-stack Developer	Built Ionic + React frontend, Firebase DB integration, and location logic
-Team Member 2	Full-stack Developer	Built Ionic + React frontend, Firebase DB integration, and location logic
+**Jungmyung Lee**	Full-stack Developer	Built Ionic + React frontend, Firebase DB integration, and location logic
+Team Member 2	Full-stack Developer	Built Ionic + React frontend, Firebase DB integration, and UI/UX design
 Team Member 3	Coordinated overall workflow, task distribution
 Team Member 4	Designer	UX/UI layout, Figma prototyping, and visual design
 
 
 
-📈 Future Development
 
-🤖 Integrate Naver CLOVA OCR for automated repair record recognition
-
-🧭 Add route optimization for mobile mechanic dispatch
-
-💬 Implement AI chatbot for repair scheduling and status updates
-
-📊 Expand as a SaaS platform for fleet data analytics
-
-🔒 Improve database security via Firebase Rules and token validation
-
-🧾 License
-
-This project is licensed under the MIT License.
-See the LICENSE
- file for more details.
-
-👨‍💻 Developer
-
-Jungmyung Lee
-📧 jm0541@naver.com
-
-🌐 GitHub: LifeIsBasketball
 
 🏅 Awards: Merit Award (Air Force Startup), Excellence Award (Risktaker’s Blueprint)
 💡 Vision: Building AI-powered, human-centered solutions that enhance accessibility and efficiency across industries.
