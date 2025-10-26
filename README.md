@@ -6,7 +6,7 @@
 **TtukDoctor** is a mobile web platform that connects heavy-equipment operators (e.g., forklifts, dump trucks, and mixers) with nearby repair shops in real time.  
 Developed using **Ionic + React + Firebase**.
 
-## 🚀 Problem - Solution - Social Impact
+## 🚀 Problem - Solution - Validation - Social Impact
 
 > Built a national-scale platform improving repair accessibility and transparency for Korea’s heavy-equipment industry.
 
@@ -20,7 +20,7 @@ It provides clear reservation flows (OnSite1–4, Reserve1–5), **photo-based f
 
 ### 🧩 Validation  
 Engaged **250+ mechanics and equipment operators** to collect feedback for feature refinement and secured **MOUs with 6+ organizations**, including the **Korea Construction Equipment Association** and the **Korea Construction Equipment Repair Association**.  
-MVP testers gave **highly positive** feedback and expressed strong interest in the official launch.
+MVP testers gave **very positive** feedback and expressed strong interest in the official launch.
 
 ### 🌍 Social Impact  
 By **web-crawling and updating over 1,200 repair shop records**—many of which were previously missing from Google or Naver Maps—TtukDoctor built a **comprehensive national database** covering every region in South Korea.  
@@ -36,7 +36,7 @@ Through cooperation with **6+ industry associations** and continuous field feedb
 ## 🏆 Achievements  
 - 🥇 **Merit Award**, *2025 Republic of Korea Air Force Startup Competition*  
 - 🧠 **Excellence Award**, *Risktaker’s Blueprint Startup Competition (2025)*  
-- 👥 Developed by a **4-member team** (Full-Stack x2, OCR AI, Research)  
+- 👥 Developed by a **4-member team** (Full-Stack x2, PM, Research)  
 
 ---
 
@@ -59,8 +59,12 @@ Through cooperation with **6+ industry associations** and continuous field feedb
 - 👨‍🔧 **Mechanic Dashboard (Planned)** – Manage ongoing requests  
 - 🧾 **Digital Repair Logs (Planned)** – AI-driven OCR data automation
 
-  <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/fab5a414-1321-4114-b713-7a7735eb4182" />
-### -Nearby Repair Shop Search-
+<div align="center">
+  <img width="400" height="600" alt="Nearby Repair Shop Search" src="https://github.com/user-attachments/assets/fab5a414-1321-4114-b713-7a7735eb4182" />
+  <br>
+  <i>-Nearby Repair Shop Search-</i>
+</div>
+
 
 ---
 
@@ -70,21 +74,22 @@ TtukDoctor combines UI and logic within each page while managing data through Fi
 The project also includes Naver Maps integration for location-based features.
 
 - **Pages:** Main user interfaces such as Home, Login, My Vehicle, Quotes, and Reservation flows (OnSite1–4, Reserve1–5)  
-- **Services:** A collection of functions that handle Firebase operations (Garages, Users, Auth<Login, Signup>, etc.)  
+- **Services:** A collection of functions that handle Firebase operations (Garages, Users, Auth(Login, Signup), etc.)  
 - **Map Feature:** Uses the Naver Maps SDK (loaded in `index.html`) and a clustering script (`MarkerClustering.js`) for displaying nearby repair shops  
 - **Theme:** Global color, font, and layout variables for consistent design  
 
 ## 📂 Repository Structure
 
-/src → Core logic and React pages
-/public → Static assets (logos, HTML entry point)
-/firebase.json → Firebase Hosting configuration
-/tsconfig.json → TypeScript compiler configuration
+/src → Core logic and React pages  
+/public → Static assets (logos, HTML entry point)  
+/firebase.json → Firebase Hosting configuration  
+/tsconfig.json → TypeScript compiler configuration  
+
 
 📺 App Video: Watch on YouTube
 
-https://youtu.be/-IgLjWqCCtg?si=GUOLBrQbTJffaa5V (Beta Version)
-https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d (Quote Process)
+(https://youtu.be/-IgLjWqCCtg?si=GUOLBrQbTJffaa5V) (Beta Version)
+(https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d) (Quote Process)
 
 👥 Team & Roles
 Name	Role	Contribution
