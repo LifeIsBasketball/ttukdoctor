@@ -28,6 +28,9 @@ This effort **reduced information gaps** in the construction equipment service i
 The platform also supports **young professionals in their 20s and 30s** entering the market by providing transparent, reliable, and easy-to-access digital information.  
 Through cooperation with **6+ industry associations** and continuous field feedback from mechanics, TtukDoctor demonstrates strong potential for **industrial AI adoption** and **social innovation**.  
 
+<img width="638" height="476" alt="image" src="https://github.com/user-attachments/assets/5274712c-779e-492a-af37-66aa2753d440" />
+
+
 ---
 
 ## 🏆 Achievements  
