@@ -46,7 +46,7 @@ The platform addresses inefficiencies in the repair coordination process by intr
 
 
   <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/fab5a414-1321-4114-b713-7a7735eb4182" />
- ## <Nearby Repair Shop Search>
+### -Nearby Repair Shop Search-
 
 ---
 
@@ -64,7 +64,7 @@ public/
  ┣ assets/
  ┗ index.html
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 /src → Core logic and React pages
 /public → Static assets (logos, HTML entry point)
