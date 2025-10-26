@@ -91,9 +91,19 @@ The project also includes Naver Maps integration for location-based features.
 (https://youtu.be/-IgLjWqCCtg?si=GUOLBrQbTJffaa5V) (Beta Version)
 (https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d) (Quote Process)
 
-👥 Team & Roles
-Name	Role	Contribution
-**Jungmyung Lee**	Full-stack Developer	Built Ionic + React frontend, Firebase DB integration, and location logic
-Team Member 2	Full-stack Developer	Built Ionic + React frontend, Firebase DB integration, and UI/UX design
-Team Member 3	Coordinated overall workflow, task distribution
-Team Member 4	Designer	UX/UI layout, Figma prototyping, and visual design
+## 👥 Team & Roles  
+
+✨ **Jungmyung Lee**  
+Full-stack Developer  
+Built Ionic + React frontend, Firebase DB integration, and location logic  
+🧠 **Team Member 2**  
+Full-stack Developer  
+Built Ionic + React frontend, Firebase DB integration, and UI/UX design  
+🧩 **Team Member 3**  
+Project Coordinator  
+Managed overall workflow and task distribution  
+🎨 **Team Member 4**  
+Designer  
+UX/UI layout, Figma prototyping, and visual design  
+
+
