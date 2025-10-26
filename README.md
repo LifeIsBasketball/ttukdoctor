@@ -4,19 +4,29 @@
 
 ## 📘 Overview  
 **TtukDoctor** is a mobile web platform that connects heavy-equipment operators (e.g., forklifts, dump trucks, and mixers) with nearby repair shops in real time.  
-Developed using **Ionic + React + Firebase**, this project was created for the **2025 Republic of Korea Air Force Startup Competition**, where it won a **Merit Award (Top 8 out of 380+ teams)**.  
+Developed using **Ionic + React + Firebase**.
 
-## 🌍 Social Impact
-TtukDoctor engaged over **120 mechanics and equipment operators** to collect feedback for feature refinement and secured **MOUs with 6+ organizations**, including the **Korea Construction Equipment Association** and the **Korea Construction Equipment Repair Association**, strengthening cooperation across the industry.  
-By **web-crawling and updating over 1,200 repair shop records**—many of which were previously missing from Google or Naver Maps—the platform built a **comprehensive national database** covering every region in South Korea.  
-This effort **reduced information gaps** in the construction equipment service industry and improved accessibility for equipment operators.  
-The platform also supports **young professionals in their 20s and 30s** entering the market by providing transparent, reliable information and easy digital access.  
-During the MVP stage, user feedback was **highly positive**, with participants expressing strong anticipation for the official launch.  
-TtukDoctor continues to focus on solving real-world inefficiencies while ensuring that technology strengthens, rather than replaces, human expertise.
+## 🚀 Problem - Solution - Impact
 
-The platform addresses inefficiencies in the repair coordination process by introducing:
-- 🔍 **Location-based service matching**
-- 🧾 **Digitalized repair history**
+> Built a national-scale platform improving repair accessibility and transparency for Korea’s heavy-equipment industry.
+
+### ❗ Problem  
+Repair coordination was fragmented across offline networks — operators often had to rely on **Naver, Google, or even acquaintances-of-acquaintances** to find a repair shop.  
+Many shops weren’t listed online, and the lack of accessible information made **price and service comparison nearly impossible**, especially for operators in rural areas and for new entrants in their 20s–30s.
+
+### 💡 Solution  
+TtukDoctor connects operators and mechanics through real-time map-based matching and a **nationwide dataset of 1,200+ repair shops covering every region in Korea** (web-crawled and continuously updated).  
+It provides clear reservation flows (OnSite1–4, Reserve1–5), **photo-based feedback and review features** for transparency, and an accessibility-first UI.
+
+### 🧩 Validation  
+Engaged **250+ mechanics and equipment operators** to collect feedback for feature refinement and secured **MOUs with 6+ organizations**, including the **Korea Construction Equipment Association** and the **Korea Construction Equipment Repair Association**.  
+MVP testers gave **highly positive** feedback and expressed strong interest in the official launch.
+
+### 🌍 Social Impact  
+By **web-crawling and updating over 1,200 repair shop records**—many of which were previously missing from Google or Naver Maps—TtukDoctor built a **comprehensive national database** covering every region in South Korea.  
+This effort **reduced information gaps** in the construction equipment service industry and **improved accessibility** for small and rural repair shops.  
+The platform also supports **young professionals in their 20s and 30s** entering the market by providing transparent, reliable, and easy-to-access digital information.  
+Through cooperation with **6+ industry associations** and continuous field feedback from mechanics, TtukDoctor demonstrates strong potential for **industrial AI adoption** and **social innovation**.  
 
 ---
 
