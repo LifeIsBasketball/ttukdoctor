@@ -1,7 +1,7 @@
 # 🚚 TtukDoctor  
 **Mobile Platform for Heavy-Equipment Repair Service Matching**
 
-<img width="628" height="783" alt="image" src="https://github.com/user-attachments/assets/ab469ca5-3c01-4023-ab49-83deb7199400" />
+<img width="500" height="620" alt="image" src="https://github.com/user-attachments/assets/ab469ca5-3c01-4023-ab49-83deb7199400" />
 
 
 ## 📘 Overview  
