@@ -1,6 +1,8 @@
 # 🚚 TtukDoctor  
 **Mobile Platform for Heavy-Equipment Repair Service Matching**
 
+<img width="628" height="783" alt="image" src="https://github.com/user-attachments/assets/ab469ca5-3c01-4023-ab49-83deb7199400" />
+
 
 ## 📘 Overview  
 **TtukDoctor** is a mobile web platform that connects heavy-equipment operators (e.g., forklifts, dump trucks, and mixers) with nearby repair shops in real time.  
@@ -41,7 +43,6 @@ Through cooperation with **6+ industry associations** and continuous field feedb
 ---
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/45524945-cc3a-484a-abea-82081ca6d77b" />
-<img width="628" height="783" alt="image" src="https://github.com/user-attachments/assets/ab469ca5-3c01-4023-ab49-83deb7199400" />
 
 ## 🛠️ Tech Stack
 - **Frontend:** Ionic + React (TypeScript)
