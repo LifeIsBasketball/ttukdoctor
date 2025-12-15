@@ -36,9 +36,9 @@ Through cooperation with **6+ industry associations** and continuous field feedb
 ---
 
 ## Achievements  
-- 🥇 **Merit Award**, *2025 Republic of Korea Air Force Startup Competition*  
-- 🧠 **Excellence Award**, *Risktaker’s Blueprint Startup Competition (2025)*  
-- 👥 Developed by a **4-member team** (Full-Stack x2, PM, Research)  
+- **Merit Award**, *2025 Republic of Korea Air Force Startup Competition*  
+- **Excellence Award**, *Risktaker’s Blueprint Startup Competition (2025)*  
+- Developed by a **4-member team** (Full-Stack x2, PM, Research)  
 
 ---
 
