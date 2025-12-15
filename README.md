@@ -41,7 +41,7 @@ Through cooperation with **6+ industry associations** and continuous field feedb
 
 ---
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/45524945-cc3a-484a-abea-82081ca6d77b" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/45524945-cc3a-484a-abea-82081ca6d77b" />  
 - Developed by a **4-member team** (Full-Stack x2, PM, Research)  
 
 ## Tech Stack
