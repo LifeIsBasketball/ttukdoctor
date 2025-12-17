@@ -36,7 +36,7 @@ Through cooperation with **6+ industry associations** and continuous field feedb
 ---
 
 ## Achievements  
-- **Merit Award**, *2025 Republic of Korea Air Force Startup Competition*  
+- **Chief of Staff for Personnel Award**, *2025 Republic of Korea Air Force Startup Competition*  
 - **Excellence Award**, *Risktaker’s Blueprint Startup Competition (2025)*  
 
 ---
