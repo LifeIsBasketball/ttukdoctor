@@ -105,6 +105,12 @@ The project also includes Naver Maps integration for location-based features.
   </a>
 </p>
 
+### 🎬 App Videos
+
+- ▶️ **[Watch Beta Version Demo](https://youtu.be/-IgLjWqCCtg?si=GUOLBrQbTJffaa5V)**
+- ▶️ **[Watch Quote Process (Short)](https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d)**
+
+
 
 ## Team & Roles  
 
