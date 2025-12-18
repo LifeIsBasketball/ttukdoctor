@@ -105,13 +105,13 @@ The project also includes Naver Maps integration for location-based features.
 **Jungmyung Lee**  
 Full-stack Developer  
 Built Ionic + React frontend, Firebase DB integration, and location logic  
-**Team Member 2**  
+**Hyunsu Jung**  
 Full-stack Developer  
 Built Ionic + React frontend, Firebase DB integration, and UI/UX design  
-**Team Member 3**  
+**Jaehyun Park**  
 Project Coordinator  
 Managed overall workflow and task distribution  
-**Team Member 4**  
+**Eunsu Choi**  
 Designer  
 UX/UI layout, Figma prototyping, and visual design  
 
