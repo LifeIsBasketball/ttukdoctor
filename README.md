@@ -93,6 +93,19 @@ The project also includes Naver Maps integration for location-based features.
 (https://youtu.be/-IgLjWqCCtg?si=GUOLBrQbTJffaa5V) (Beta Version)
 (https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d) (Quote Process)
 
+### 🎬 App Videos
+
+<p align="left">
+  <a href="https://youtu.be/-IgLjWqCCtg?si=GUOLBrQbTJffaa5V" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Beta%20Demo-YouTube-red?logo=youtube&logoColor=white" />
+  </a>
+  
+  <a href="https://youtube.com/shorts/xzneEHc1b5I?si=xubBfjIXCblvCi-d" target="_blank">
+    <img src="https://img.shields.io/badge/Quote%20Process-YouTube%20Shorts-red?logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+
 ## Team & Roles  
 
 **Jungmyung Lee**  
